@@ -1,1 +1,5 @@
-- Guide line to configure JOSSO
+These are libraries for integrate eXo Platform with JOSSO version 1.8.1.
+If you want to use later version, please install exo-josso. See Please read https://github.com/exo-addons/josso-addon/blob/master/README.md#josso-addon to see how to configure eXo Platform and JOSSO server
+
+You will need to copy and merge this folder with $JOSSO_TOMCAT_HOME
+Please read more at: https://github.com/exo-addons/josso-addon/blob/master/README.md#josso-addon

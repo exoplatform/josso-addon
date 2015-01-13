@@ -1,1 +1,5 @@
-- Guide line to configure JOSSO
+- If you want to integrate with JOSSO 1.8.x: you will need copy and merge folder josso with $JOSSO_TOMCAT_HOME
+- If you want to use JOSSO 2.2.0: You will need copy and merge folder josso-2.2.0 with $JOSSO_HOME
+- If you are using version later than 2.2.0, you do not need to copy anything.
+
+Please read https://github.com/exo-addons/josso-addon/blob/master/README.md#josso-addon to see how to configure eXo Platform and JOSSO server
