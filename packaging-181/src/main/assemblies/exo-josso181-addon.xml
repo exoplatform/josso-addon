@@ -43,6 +43,9 @@
       <includes>
         <include>**/*.jar</include>
       </includes>
+      <excludes>
+        <exclude>sso-integration-*.jar</exclude>
+      </excludes>
     </fileSet>
   </fileSets>
   <dependencySets>
