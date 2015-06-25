@@ -36,9 +36,9 @@
   <description>The JOSSO add-on parent POM</description>
 
   <scm>
-    <connection>scm:git:git://github.com/exo-addons/josso-addon.git</connection>
-    <developerConnection>scm:git:git@github.com:exo-addons/josso-addon.git</developerConnection>
-    <url>https://github.com/exo-addons/josso-addon</url>
+    <connection>scm:git:git://github.com/exoplatform/josso-addon.git</connection>
+    <developerConnection>scm:git:git@github.com:exoplatform/josso-addon.git</developerConnection>
+    <url>https://github.com/exoplatform/josso-addon</url>
     <tag>HEAD</tag>
   </scm>
 
