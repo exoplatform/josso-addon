@@ -30,7 +30,7 @@
   </parent>
   <groupId>org.exoplatform.addons.sso</groupId>
   <artifactId>josso-addon-parent</artifactId>
-  <version>1.0.x-SNAPSHOT</version>
+  <version>1.1.x-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>JOSSO Parent POM</name>
   <description>The JOSSO add-on parent POM</description>

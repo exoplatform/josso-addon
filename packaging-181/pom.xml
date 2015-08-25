@@ -26,7 +26,7 @@
   <parent>
     <groupId>org.exoplatform.addons.sso</groupId>
     <artifactId>josso-addon-parent</artifactId>
-    <version>1.0.x-SNAPSHOT</version>
+    <version>1.1.x-SNAPSHOT</version>
   </parent>
   <artifactId>josso181-addon-packaging</artifactId>
   <packaging>pom</packaging>
