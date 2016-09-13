@@ -30,7 +30,7 @@
   </parent>
   <artifactId>josso181-addon-packaging</artifactId>
   <packaging>pom</packaging>
-  <name>JOSSO add-on Packaging</name>
+  <name>eXo Add-on:: JOSSO add-on Packaging</name>
   <description>The JOSSO add-on packaging</description>
 
   <dependencies>

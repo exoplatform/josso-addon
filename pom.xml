@@ -32,7 +32,7 @@
   <artifactId>josso-addon-parent</artifactId>
   <version>1.1.x-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>JOSSO Parent POM</name>
+  <name>eXo Add-on:: JOSSO Parent POM</name>
   <description>The JOSSO add-on parent POM</description>
 
   <scm>
