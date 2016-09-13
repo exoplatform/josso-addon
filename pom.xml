@@ -32,8 +32,8 @@
   <artifactId>josso-addon-parent</artifactId>
   <version>1.1.x-SNAPSHOT</version>
   <packaging>pom</packaging>
-  <name>eXo Add-on:: JOSSO Parent POM</name>
-  <description>The JOSSO add-on parent POM</description>
+  <name>eXo Add-on:: JOSSO</name>
+  <description>The JOSSO add-on</description>
 
   <scm>
     <connection>scm:git:git://github.com/exoplatform/josso-addon.git</connection>
@@ -51,7 +51,7 @@
     <!-- **************************************** -->
     <!-- Dependencies versions -->
     <!-- **************************************** -->
-    <org.exoplatform.depmgt.version>11-SNAPSHOT</org.exoplatform.depmgt.version>
+    <org.exoplatform.depmgt.version>12-SNAPSHOT</org.exoplatform.depmgt.version>
     <org.gatein.sso.version>1.4.5.Final</org.gatein.sso.version>
     <org.gatein.portal.version>4.4.x-PLF-SNAPSHOT</org.gatein.portal.version>
     <version.commons-logging>1.1.1</version.commons-logging>
